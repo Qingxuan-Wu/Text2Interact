@@ -6,7 +6,7 @@ Official GitHub repository of the paper [Text2Interact: High-Fidelity and Divers
 
 **Code Coming Soon!**
 
-[[Project Page]](https://frank-zy-dou.github.io/projects/Text2Interact/index.html) [[Paper]](https://arxiv.org/pdf/2510.06504) [[Video]](https://www.youtube.com/watch?v=TNehUyASQlY)
+[[Project Page]](https://people.csail.mit.edu/frankzydou/projects/Text2Interact/index.html) [[Paper]](https://arxiv.org/pdf/2510.06504) [[Video]](https://www.youtube.com/watch?v=TNehUyASQlY)
 
 <img width="3900" height="1800" alt="image" src="https://github.com/user-attachments/assets/4e00c924-95a4-4342-9382-de196a20a123" />
 
